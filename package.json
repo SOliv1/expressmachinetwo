@@ -1,0 +1,33 @@
+{
+  "name": "express-machine",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "^0.29.0",
+    "morgan": "~1.9.1"
+  },
+  "main": "animals.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SOliv1/node_express_machine.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Sara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SOliv1/node_express_machine/issues"
+  },
+  "homepage": "https://github.com/SOliv1/node_express_machine#readme",
+  "devDependencies": {},
+  "description": ""
+}
